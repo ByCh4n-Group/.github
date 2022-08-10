@@ -17,3 +17,7 @@ we are a small group working mostly on GNU/Linux based free software projects.
 - [Firemium](https://github.com/Firemium)
 - [Timurci](https://github.com/timurci)
 - [Lazypwny751](https://github.com/lazypwny751)
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/54551308/184007864-6319e526-4b27-48cc-b912-49d18ccb35fc.gif" alt="animated"/>
+</p>
