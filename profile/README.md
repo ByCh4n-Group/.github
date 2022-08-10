@@ -1,10 +1,10 @@
-# ByCh4n Group - we develop to evolve.
+# ByCh4n Group - Gelişmek İçin Geliştiriyoruz.
 ![image](https://user-images.githubusercontent.com/54551308/183921353-2d19c482-484e-48c8-8895-f613650d20fd.png)
 
-##  Who are we, what are we doing?
-we are a small group working mostly on GNU/Linux based free software projects.
+##  Biz kimiz? Ne yapıyoruz?
+Bizler GNU/Linux sistemleri ağırlıklı olmak üzre, özgür yazılım projeleri geliştiren küçük bir grubuz, amacımız açık kaynak projeler'e yardımcı olmak ve özgür yazılım projeler geliştirmektir.
 
-## Special Thanks:
+## Özel Teşekkürler:
 - [ByCh4n](https://github.com/ByCh4n)
 - [Lewis](https://github.com/heyolewo)
 - [RiseToDev751](https://github.com/RiseToDev751)
