@@ -17,10 +17,10 @@ We are an independent community passionate about cybersecurity and open-source s
 
 ## Explore Our Work 🔍
 <p align="center">
-  <a href="https://github.com/ByCh4n">
+  <a href="https://github.com/ByCh4n-Group">
     <img src="https://img.shields.io/badge/Explore%20Repositories-🔗-blue" alt="Explore Repositories">
   </a>
-  <a href="https://github.com/ByCh4n?tab=members">
+  <a href="https://github.com/ByCh4n-Group?tab=members">
     <img src="https://img.shields.io/badge/Meet%20the%20Team-👥-green" alt="Meet the Team">
   </a>
 </p>
